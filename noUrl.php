@@ -1,5 +1,4 @@
 <?php
-require_once(dirname(dirname(__FILE__)) . '/vendor/config.php');
 $PID='';
 $KEY='';
 
