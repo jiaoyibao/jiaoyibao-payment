@@ -1,12 +1,12 @@
 简体中文
 # jiaoyibao-payment（交易宝收款监测接口）
-免费，好用的收款监测接口，[交易宝](https://www.jiaoyibao.org)免费为您提供 支付宝、微信、区块链USDT 收款地址监测即时回调接口。用自己的收款地址收款，更放心！支持个人支付宝免签约收款、个人微信免签约收款、USDT.TRC20收款
+免费，好用的收款监测接口，[交易宝](https://www.jiaoyibao.org 域名已做费，新域名coinpayvip.com)免费为您提供 支付宝、微信、区块链USDT 收款地址监测即时回调接口。用自己的收款地址收款，更放心！支持个人支付宝免签约收款、个人微信免签约收款、USDT.TRC20收款
 
 ## 简单四步，立即免费使用
 「交易宝」收款监测接口的原理是监测微信、支付宝、区块链USDT的收款到账通知并即时回调给开发者应用
 
 ### 第一步: 注册账号
-[无需验证注册，安全更私密](https://www.jiaoyibao.org/member/)
+[无需验证注册，安全更私密](https://www.coinpayvip.com/member/)
 
 
 ### 第二步: 配置站点
@@ -42,8 +42,8 @@ USDT.TRC20安全稳定，秒级到账，快速打通交易闭环。自建节点�
 
 
 ## 详细介绍
-- [交易宝主页介绍,收款监控API平台](https://www.jiaoyibao.org)
-- [登录与注册](https://www.jiaoyibao.org/menber)
+- [交易宝主页介绍,收款监控API平台](https://www.coinpayvip.com)
+- [登录与注册](https://www.coinpayvip.com/menber)
 
 
 ## 联系我们
